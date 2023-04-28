@@ -1,0 +1,58 @@
+{"prompt": "What is AP Computer Science A Topic 1.1?\n\n###\n\n", "completion": "Why Programming? Why Java?###"}
+{"prompt": "What is AP Computer Science A Topic 1.2?\n\n###\n\n", "completion": "Variables and Data Types###"}
+{"prompt": "What is AP Computer Science A Topic 1.3?\n\n###\n\n", "completion": "Expressions and Assignment Statements###"}
+{"prompt": "What is AP Computer Science A Topic 1.4?\n\n###\n\n", "completion": "Compound Assignment Operators###"}
+{"prompt": "What is AP Computer Science A Topic 1.5?\n\n###\n\n", "completion": "Casting and Ranges of Variables###"}
+{"prompt": "What is AP Computer Science A Topic 2.1?\n\n###\n\n", "completion": "Objects: Instances of Classes###"}
+{"prompt": "What is AP Computer Science A Topic 2.2?\n\n###\n\n", "completion": "Creating and Storing Objects (Instantiation) ###"}
+{"prompt": "What is AP Computer Science A Topic 2.3?\n\n###\n\n", "completion": "Calling a Void Method###"}
+{"prompt": "What is AP Computer Science A Topic 2.4?\n\n###\n\n", "completion": "Calling a Void Method with Parameters###"}
+{"prompt": "What is AP Computer Science A Topic 2.5?\n\n###\n\n", "completion": "Calling a Non-void Method###"}
+{"prompt": "What is AP Computer Science A Topic 2.6?\n\n###\n\n", "completion": "String Objects: Concatenation, Literals, and More###"}
+{"prompt": "What is AP Computer Science A Topic 2.7?\n\n###\n\n", "completion": "String Methods###"}
+{"prompt": "What is AP Computer Science A Topic 2.8?\n\n###\n\n", "completion": "Wrapper Classes: Integer and Double###"}
+{"prompt": "What is AP Computer Science A Topic 2.9?\n\n###\n\n", "completion": "Using the Math class###"}
+{"prompt": "What is AP Computer Science A Topic 3.1?\n\n###\n\n", "completion": "Boolean Expressions###"}
+{"prompt": "What is AP Computer Science A Topic 3.2?\n\n###\n\n", "completion": "if Statements and Control Flow###"}
+{"prompt": "What is AP Computer Science A Topic 3.3?\n\n###\n\n", "completion": "if-else Statements###"}
+{"prompt": "What is AP Computer Science A Topic 3.4?\n\n###\n\n", "completion": "else if Statements###"}
+{"prompt": "What is AP Computer Science A Topic 3.5?\n\n###\n\n", "completion": "Compound Boolean Expressions###"}
+{"prompt": "What is AP Computer Science A Topic 3.6?\n\n###\n\n", "completion": "Equivalent Boolean Expressions###"}
+{"prompt": "What is AP Computer Science A Topic 3.7?\n\n###\n\n", "completion": "Comparing Objects###"}
+{"prompt": "What is AP Computer Science A Topic 4.1?\n\n###\n\n", "completion": "while Loops###"}
+{"prompt": "What is AP Computer Science A Topic 4.2?\n\n###\n\n", "completion": "for Loops###"}
+{"prompt": "What is AP Computer Science A Topic 4.3?\n\n###\n\n", "completion": "Developing Algorithms Using Strings###"}
+{"prompt": "What is AP Computer Science A Topic 4.4?\n\n###\n\n", "completion": "Nested Iteration###"}
+{"prompt": "What is AP Computer Science A Topic 4.5?\n\n###\n\n", "completion": "Informal Code Analysis###"}
+{"prompt": "What is AP Computer Science A Topic 5.1?\n\n###\n\n", "completion": "Anatomy of a Class###"}
+{"prompt": "What is AP Computer Science A Topic 5.2?\n\n###\n\n", "completion": "Constructors###"}
+{"prompt": "What is AP Computer Science A Topic 5.3?\n\n###\n\n", "completion": "Documentation with Comments###"}
+{"prompt": "What is AP Computer Science A Topic 5.4?\n\n###\n\n", "completion": "Accessor methods###"}
+{"prompt": "What is AP Computer Science A Topic 5.5?\n\n###\n\n", "completion": "Mutator Methods###"}
+{"prompt": "What is AP Computer Science A Topic 5.6?\n\n###\n\n", "completion": "Writing Methods###"}
+{"prompt": "What is AP Computer Science A Topic 5.7?\n\n###\n\n", "completion": "Static Variables and Methods###"}
+{"prompt": "What is AP Computer Science A Topic 5.8?\n\n###\n\n", "completion": "Scope and Access###"}
+{"prompt": "What is AP Computer Science A Topic 5.9?\n\n###\n\n", "completion": "this keyword###"}
+{"prompt": "What is AP Computer Science A Topic 5.1?\n\n###\n\n", "completion": "Ethical and Social Implications of Computing Systems###"}
+{"prompt": "What is AP Computer Science A Topic 6.1?\n\n###\n\n", "completion": "Array Creation and Access###"}
+{"prompt": "What is AP Computer Science A Topic 6.2?\n\n###\n\n", "completion": "Traversing Arrays###"}
+{"prompt": "What is AP Computer Science A Topic 6.3?\n\n###\n\n", "completion": "Enhanced for Loop for Arrays###"}
+{"prompt": "What is AP Computer Science A Topic 6.4?\n\n###\n\n", "completion": "Developing Arrays Using Algorithms###"}
+{"prompt": "What is AP Computer Science A Topic 7.1?\n\n###\n\n", "completion": "Introduction to ArrayList###"}
+{"prompt": "What is AP Computer Science A Topic 7.2?\n\n###\n\n", "completion": "ArrayList Methods###"}
+{"prompt": "What is AP Computer Science A Topic 7.3?\n\n###\n\n", "completion": "Traversing ArrayLists###"}
+{"prompt": "What is AP Computer Science A Topic 7.4?\n\n###\n\n", "completion": "Developing Algorithms Using ArrayLists###"}
+{"prompt": "What is AP Computer Science A Topic 7.5?\n\n###\n\n", "completion": "Searching###"}
+{"prompt": "What is AP Computer Science A Topic 7.6?\n\n###\n\n", "completion": "Sorting###"}
+{"prompt": "What is AP Computer Science A Topic 7.7?\n\n###\n\n", "completion": "Ethical Issues Around Data Collection###"}
+{"prompt": "What is AP Computer Science A Topic 8.1?\n\n###\n\n", "completion": "2D Arrays###"}
+{"prompt": "What is AP Computer Science A Topic 8.2?\n\n###\n\n", "completion": "Traversing 2D Arrays###"}
+{"prompt": "What is AP Computer Science A Topic 9.1?\n\n###\n\n", "completion": "Creating Superclasses and Subclasses###"}
+{"prompt": "What is AP Computer Science A Topic 9.2?\n\n###\n\n", "completion": "Writing Constructors for Subclasses###"}
+{"prompt": "What is AP Computer Science A Topic 9.3?\n\n###\n\n", "completion": "Overriding Methods###"}
+{"prompt": "What is AP Computer Science A Topic 9.4?\n\n###\n\n", "completion": "super keyword###"}
+{"prompt": "What is AP Computer Science A Topic 9.5?\n\n###\n\n", "completion": "Creating References Using Inheritance Hierarchies###"}
+{"prompt": "What is AP Computer Science A Topic 9.6?\n\n###\n\n", "completion": "Polymorphism###"}
+{"prompt": "What is AP Computer Science A Topic 9.7?\n\n###\n\n", "completion": "Object Superclass###"}
+{"prompt": "What is AP Computer Science A Topic 10.1?\n\n###\n\n", "completion": "Recursion###"}
+{"prompt": "What is AP Computer Science A Topic 10.2?\n\n###\n\n", "completion": "Recursive Searching and Sorting###"}
